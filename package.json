@@ -1,0 +1,23 @@
+{
+  "name": "github_inprogress_auth_device_flow",
+  "version": "1.0.0",
+  "description": "This sample demonstrates the ARTIK cloud services device flow (limited input) authentication.   This allows a user to use a 2nd device (like mobile phone) to complete the authentication to device with limited input (i.e.:  no keyboard).  In this example a console application will authenticate when the user authenticates remotely with a phone (or another computer) via the web.",
+  "main": "limited_device.js",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artikcloud/sample-nodejs-deviceFlowLimitedInput.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artikcloud/sample-nodejs-deviceFlowLimitedInput/issues"
+  },
+  "homepage": "https://github.com/artikcloud/sample-nodejs-deviceFlowLimitedInput#readme"
+}
